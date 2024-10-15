@@ -1,6 +1,8 @@
-ls
-ls -ltra
-cp <source_file> <destination_file>
-rm -rf <file_name>
+sed
+echo
+Redirectors
+variables
+
+NOTE: Shell scripting doesnt have any Datatypes
 
 
