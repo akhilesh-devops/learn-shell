@@ -8,3 +8,8 @@ input() {
 }
 
 input abc 123 567 789 akhilesh
+
+test() {
+  echo "hello world"
+  echo "Today Date is $(date)}"
+}
