@@ -5,3 +5,13 @@ test() {
 }
 
 test
+
+input() {
+  Script Name - $0
+  First Argument - $1
+  Second Argument - $2
+  All Arguments - $*
+  No of Arguments - $#
+}
+
+input
