@@ -7,4 +7,4 @@ input() {
   echo "No of Arguments - $#"
 }
 
-input
+input abc 123 567 789 akhilesh
