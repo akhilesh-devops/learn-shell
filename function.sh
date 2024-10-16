@@ -13,3 +13,5 @@ test() {
   echo "hello world"
   echo "Today Date is $(date)}"
 }
+
+test
