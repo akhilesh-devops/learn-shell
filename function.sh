@@ -7,11 +7,11 @@ test() {
 test
 
 input() {
-  Script Name - $0
-  First Argument - $1
-  Second Argument - $2
-  All Arguments - $*
-  No of Arguments - $#
+  echo Script Name - $0
+  echo First Argument - $1
+  echo Second Argument - $2
+  echo All Arguments - $*
+  echo No of Arguments - $#
 }
 
 input
