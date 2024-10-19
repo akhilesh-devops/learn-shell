@@ -1,7 +1,7 @@
 ls
 ls -ltra
-cat /etc/proc/meminfo
-cat /etc/proc/cpuinfo
+cat /proc/meminfo
+cat /proc/cpuinfo
 lsblk
 uname
 uname -a
