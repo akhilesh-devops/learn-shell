@@ -7,4 +7,4 @@ echo script name - $0
 echo First Argument - $1
 echo Second Argument - $2
 echo No. of Arguments - $#
-eecho All Arguments - $*
+echo All Arguments - $*
