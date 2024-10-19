@@ -11,4 +11,4 @@ echo All Arguments - $*
 
 #Command Substitution
 
-echo Todays Date is $(date)
+echo -e "\e[36mTodays Date is $(date)\e[0m"
