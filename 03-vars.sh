@@ -16,3 +16,5 @@ echo -e "\e[36mTodays Date is $(date)\e[0m"
 #Arithemetic operations
 
 echo "Total sum is $(( 2+5 ))"
+
+echo "value of a is $(($a-1))"
