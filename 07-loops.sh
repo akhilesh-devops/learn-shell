@@ -8,3 +8,7 @@ done
 
 echo "Hello world"
 
+for i in frontend mongodb catalogue redis user cart; do
+  echo Installing component - ${i}
+done
+
