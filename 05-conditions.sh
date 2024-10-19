@@ -1,10 +1,6 @@
-a=100
-if [ $a -gt 10 ]; then
-  echo Hello world
-fi
 
-if [ -z "$password" ]; then
+if [ -z "${password}" ]; then
   echo Input Password is Missing
 fi
 
-password=akhil123
+password=$1
