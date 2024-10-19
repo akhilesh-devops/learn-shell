@@ -6,3 +6,5 @@ input () {
 }
 
 input
+
+echo "Function Exit Status - $?"
