@@ -8,4 +8,4 @@ echo "Hello world"
 #Magenta - 35
 #Cyan - 36
 
-echo -e "\e[33m >>>>>>>>> Roboshop Project <<<<<<<<<<\e[0m"
+echo -e "\e[34m >>>>>>>>> Roboshop Project <<<<<<<<<<\e[0m"
