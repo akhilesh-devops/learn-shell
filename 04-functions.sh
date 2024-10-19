@@ -17,4 +17,4 @@ test () {
   echo "Script Name - $0"
 }
 
-test 123 456 789 258
+test
