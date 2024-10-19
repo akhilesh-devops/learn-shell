@@ -16,3 +16,5 @@ test () {
   echo "Fourth Argument - $4"
   echo "Script Name - $0"
 }
+
+test 123 456 789 258
