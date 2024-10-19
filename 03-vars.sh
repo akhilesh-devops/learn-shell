@@ -22,4 +22,3 @@ echo "value of a is $(($a-1))"
 # Environment Variables
 
 echo name is $name
-env
