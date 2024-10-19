@@ -21,4 +21,4 @@ echo "value of a is $(($a-1))"
 
 # Environment Variables
 
-echo $USER
+echo Username is $USER
