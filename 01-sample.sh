@@ -1,5 +1,5 @@
 ls
-#ls -ltra
+ls -ltra
 #uname
 #uname -a
 #uname -i
