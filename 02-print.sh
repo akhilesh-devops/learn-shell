@@ -1,6 +1,6 @@
 echo Hello world
 echo ">>>>>>>> Hello world <<<<<<<<<<<<<"
-echo -e "\e[35m>>>>>>> Welcome to DevOps <<<<<<<<<\e[0m"
+echo -e "\e[36m>>>>>>> Welcome to DevOps <<<<<<<<<\e[0m"
 
 ### colour codes
 
