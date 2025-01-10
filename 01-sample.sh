@@ -1,6 +1,6 @@
 ls
 ls -ltra
-#uname
+uname
 #uname -a
 #uname -i
 #uname -m
