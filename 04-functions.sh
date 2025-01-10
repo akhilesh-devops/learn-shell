@@ -1,7 +1,6 @@
 input() {
   echo -e "\e[32mFirst command - $1\e[0m"
   echo -e "\e[32mSecond command - $2\e[0m"
-  return 100
   echo -e "\e[32mThird command - $3\e[0m"
 }
 
