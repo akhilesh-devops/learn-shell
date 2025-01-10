@@ -9,8 +9,7 @@ echo No. of Arguments - $#
 echo All Arguments - $*
 
 #Command Date Substitution
-echo -e "\e[32m>>>>>>Today Date<<<<<\e[0m"
-echo Today Date is $(date)
+echo -e "\e[32mToday Date - $(date)\e[0m"
 
 ##Arithemetic operations
 #
