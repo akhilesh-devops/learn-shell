@@ -8,10 +8,8 @@ input() {
 input 123 456 789
 
 
+echo "Function Exit Status - $?"
 
-
-#echo "Function Exit Status - $?"
-#
 #test () {
 #  echo "First Argument - $1"
 #  echo "Second Argument - $2"
