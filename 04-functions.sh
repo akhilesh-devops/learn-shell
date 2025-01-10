@@ -4,7 +4,7 @@ input() {
   echo -e "\e[32mThird command - $3\e[0m"
 }
 
-input 123 456
+input 123 456 789
 
 
 echo "Function Exit Status - $?"
