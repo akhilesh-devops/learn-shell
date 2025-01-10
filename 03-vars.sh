@@ -1,5 +1,4 @@
 a=10
-
 echo a is ${a}
 
 ##Special Variables
