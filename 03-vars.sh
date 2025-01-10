@@ -8,9 +8,9 @@ echo Second Argument - $2
 echo No. of Arguments - $#
 echo All Arguments - $*
 
-##Command Date Substitution
-#echo -e "\e[36mTodays Date is $(date)\e[0m"
-#
+#Command Date Substitution
+echo Today Date is $(date)
+
 ##Arithemetic operations
 #
 #echo "Total sum is $(( 2+5 ))"
