@@ -2,6 +2,6 @@ ls
 ls -ltra
 uname
 uname -a
-#uname -i
+uname -i
 #uname -m
 
