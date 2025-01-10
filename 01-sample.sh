@@ -1,7 +1,7 @@
 ls
-ls -ltra
-uname
-uname -a
-uname -i
-uname -m
+#ls -ltra
+#uname
+#uname -a
+#uname -i
+#uname -m
 
