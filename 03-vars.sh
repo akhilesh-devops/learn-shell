@@ -8,15 +8,19 @@ echo Second Argument - $2
 echo No. of Arguments - $#
 echo All Arguments - $*
 
+
 #Command Date Substitution
 echo -e "\e[32mToday Date - $(date)\e[0m"
 
-##Arithemetic operations
-#
-#echo "Total sum is $(( 2+5 ))"
-#
-#echo "value of a is $(($a-1))"
-#
+
+#Arithemetic operations
+
+echo "sum of money - $((500+500))"
+
+
+
+
+
 ## Environment Variables
 #
 #echo username is $USER
