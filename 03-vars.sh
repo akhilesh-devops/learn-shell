@@ -14,7 +14,7 @@ echo -e "\e[32mToday Date - $(date)\e[0m"
 
 
 #Arithemetic operations
-echo -e "\e[34msum of money - $((500+500))\e[0m"
+echo -e "\e[32msum of money - $((500+500))\e[0m"
 
 
 
