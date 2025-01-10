@@ -18,9 +18,6 @@ echo -e "\e[32mToday Date - $(date)\e[0m"
 echo -e "\e[32msum of money - $((500+500))\e[0m"
 
 
-
-
-
-## Environment Variables
-#
-#echo username is $USER
+# Environment Variables
+export USER=akhilesh
+echo username is $USER
